@@ -23,5 +23,7 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
+https://floating-ravine-53382.herokuapp.com/
 
 #### Framework of choice
+React
